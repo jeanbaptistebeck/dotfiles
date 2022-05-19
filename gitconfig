@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jb.beck@icloud.com
+	name = JB Beck
